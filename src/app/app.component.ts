@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'pm-root',
+  selector: 'a-root',
   template: `
   <div><h1>{{title}}</h1>
   <div>My Frist Component</div>
@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
   `
 })
 export class AppComponent {
-  title: string = 'MyAngularApp';
+  title: string = 'MyAnimeApp';
 }
 
 //templateUrl: './app.component.html',
