@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'a-root',
   template: `
   <div><h1>{{title}}</h1>
-  <div>My Frist Component</div>
+    <a-products></a-products>
   </div>
   `
 })
