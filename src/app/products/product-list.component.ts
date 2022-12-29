@@ -32,7 +32,7 @@ export class ProductListComponent implements OnInit{
       "releaseDate": "March 18, 2021",
       "description": "15 gallon capacity rolling garden cart",
       "price": 32.99,
-      "starRating": 4.2,
+      "starRating": 4.4,
       "imageUrl": "assets/images/garden_cart.png"
     },
     {
@@ -42,7 +42,7 @@ export class ProductListComponent implements OnInit{
       "releaseDate": "May 21, 2021",
       "description": "Curved claw steel hammer",
       "price": 8.9,
-      "starRating": 4.8,
+      "starRating": 4.3,
       "imageUrl": "assets/images/hammer.png"
     }
   ];

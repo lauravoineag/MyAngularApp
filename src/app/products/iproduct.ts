@@ -5,6 +5,6 @@
     "releaseDate": string;
     "description": string;
     "price": number;
-    "starRating": Number;
+    "starRating": number;
     "imageUrl": string;
  }
