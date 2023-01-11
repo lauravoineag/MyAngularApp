@@ -17,7 +17,7 @@ export class ProductService{
             "starRating": 4.2,
             "imageUrl": "assets/images/garden_cart.png"
           },
-          {
+          { 
             "productId": 5,
             "productName": "Hammer",
             "productCode": "TBX-0048",
