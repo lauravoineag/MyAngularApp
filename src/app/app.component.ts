@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
   `
 })
 export class AppComponent {
-  title: string = 'MyAnimeApp';
+  title: string = 'MyApp';
 }
 
 //templateUrl: './app.component.html',
