@@ -9,7 +9,7 @@ import { ProductService } from "./product.service";
 })
 
 export class ProductListComponent implements OnInit{
-  title:string = "Anime List";
+  title:string = "Product List";
   imageWidth: number = 50;
   imageMargin: number = 2;
   showImage: boolean = false;
